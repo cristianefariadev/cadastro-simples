@@ -1,0 +1,85 @@
+@CHARSET "UTF-8";
+
+#erro {
+	width: 80%;
+	margin: 0 auto;
+	color: red;
+}
+
+.formularioLogin {
+	width: 300px;
+	margin-top: 50px;
+}
+
+.conteudo {
+	max-height: 600px;
+}
+
+footer {
+	background-color: #0d3b66;
+	color: #fff;
+	padding: 5px;
+}
+
+h3 {
+	color: #5facf4;
+}
+
+th {
+	text-align: center;
+	background-color: #cccccc;
+}
+
+.scroll {
+	overflow: auto;
+}
+
+.navbar-default {
+	background-color: #0d3b66;
+	border-color: #0d3b66;
+}
+
+.navbar-default .navbar-brand {
+	color: #ffffff;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus
+	{
+	color: #5facf4;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus{
+	color: #5facf4;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+	.navbar-default .navbar-nav>.active>a:focus {
+	color: #5facf4;
+	background-color: #fff;
+}
+
+.navbar-default .navbar-toggle,
+.navbar-default .navbar-toggle:hover, 
+.navbar-default .navbar-toggle:focus
+	{
+	background-color: #5facf4;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #0d3b66;
+}
+
+.navbar-default .navbar-link {
+	color: #fff;
+}
+
+.navbar-default .navbar-link:hover {
+	color: #5facf4;
+}
+
